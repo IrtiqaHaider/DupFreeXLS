@@ -1,0 +1,45 @@
+# Python cache files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment
+venv/
+.env/
+
+# Streamlit-specific files
+.streamlit/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Environment files
+*.env
+*.env.*
+
+# Python dependencies
+*.egg-info/
+dist/
+build/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.bak
+*.swp
+*.tmp
+
+# Other
+*.csv
+*.xlsx
